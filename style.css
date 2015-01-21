@@ -1,0 +1,131 @@
+/*==================
+       BODY
+====================
+*/
+
+html, body {
+    background-color: #000000;
+    margin: 0;
+    padding: 0;
+    color: #ffffff;
+    -webkit-touch-callout: none;
+   -webkit-user-select: none;
+   -khtml-user-select: none;
+   -moz-user-select: none;
+   -ms-user-select: none;
+   user-select: none;
+}
+
+a { text-decoration: none; outline: none; !important;}
+a:visited { text-decoration: none; outline: none; !important;}
+a:hover { text-decoration: none; outline: none;!important; }
+a:focus { text-decoration: none; outline: none; !important;}
+a:hover, a:active { text-decoration: none; outline: none; !important;}
+
+
+.container {
+    margin: 0;
+    padding: 0;
+}
+
+/*==================
+        MAIN
+===================*/
+
+header img {
+    width: 100%;
+}
+
+.quote {
+    letter-spacing: 2px;
+    display:  none;
+    float: left;
+    margin-left: 5%;
+    text-align: center;
+    font-size: 100%;
+}
+
+nav {
+    background-color: #000000;
+    margin-right: 7%;
+    margin-top: 0;
+    margin-bottom:0;
+    padding: 0;
+    float: right;
+    display: none;
+    text-align: center;
+}
+
+nav ul li {
+    color: #ffffff;
+    display: inline-block;
+    font-size: 150%;
+    opacity: 0.75;
+}
+
+li:hover {
+    opacity: 1;
+    cursor:pointer;
+}
+
+.twitter-timeline {
+    display: none;
+    z-index: 99;
+    position: absolute;
+}
+
+.container iframe {
+    width: 100%;
+    height: 700px;
+    margin-top: -5%;
+}
+
+/*=================
+      FOOTER
+=================*/
+
+footer {
+    display:none;
+    width:100%;
+    position: fixed;
+    bottom:0;
+}
+
+footer ul li {
+    display: inline-block;
+}
+
+#insta {
+    opacity: 0.75;
+    width: 100%;
+    height: 100%;
+}
+
+#insta:hover {
+    opacity: 1;
+}
+
+#facebook {
+    opacity: 0.75;
+    width: 100%;
+    height: 100%;
+}
+
+#facebook:hover {
+    opacity: 1;
+}
+
+#twitter {
+    opacity: 0.9;
+    width: 110%;
+    height: 110%;
+    margin-left: -10%;
+}
+
+#twitter:hover {
+    opacity: 1;
+}
+
+footer li {
+    width: 65px;
+}
