@@ -9,5 +9,5 @@ Live links :
 [heroku](https://nirvanalanding.herokuappcom)
 
 ![main](https://s3.amazonaws.com/uploads.hipchat.com/119067/1211609/5vknCiAcxRwTwbb/nirvanahome.png)
-![vid]()
+![vid](https://s3.amazonaws.com/uploads.hipchat.com/119067/1211609/6wBMD46hrthYmxx/nirvanavid.png)
 
