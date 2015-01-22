@@ -5,7 +5,6 @@ Nirvana Landing Page
 
 Live links :  
   
-    [tumblr](https://nirvanatrial.tumblr.com)
-    [heroku](https://nirvanalanding.herokuappcom)
+[tumblr](https://nirvanatrial.tumblr.com)
+[heroku](https://nirvanalanding.herokuappcom)
 
-    
